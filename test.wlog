@@ -1,0 +1,29 @@
+/*int main(){
+  for(int a=333; a<9; a=a+1){ int b = 3; }
+  return 4;
+}*/
+
+int some(){
+  float a = 4;
+  return 1.5; 
+}
+
+/*int main(){
+  int d;
+  d = 3;
+  int a;
+  int b;
+  int c;
+  b = 5;
+  a = 3;
+  c = 1;
+  for(((a&&b)||(b&&c))){}
+  while(((a&&b)||(b&&c))){
+  int some;
+  some = 4;
+  a = 3;
+  b = (3+((2)+3));
+  a=2;
+  }
+  return 0;
+}*/
